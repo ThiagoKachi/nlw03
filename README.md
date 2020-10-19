@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src="https://postimg.cc/XXqXV5HW" width="100%">
+  <img alt="Happy" src="https://i.postimg.cc/RCQtLQwW/Imagem-19-10-2020-a-s-11-39.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
