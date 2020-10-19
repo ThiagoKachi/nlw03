@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="https://raw.githubusercontent.com/guilhermecapitao/nlw3-discovery-happy/af70825fbff121aa82fc6fa19578ea6be860baae/.github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://postimg.cc/XXqXV5HW" width="100%">
 </p>
 
 ## 🚀 Tecnologias
